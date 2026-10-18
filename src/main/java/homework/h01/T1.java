@@ -1,5 +1,9 @@
 package homework.h01;
 
-// base
-// https://leetcode.com/problems/palindrome-number/
-public class T1 {}
+/** Solution for LeetCode 2413: Smallest Even Multiple. */
+public class T1 {
+
+  public int smallestEvenMultiple(int n) {
+    return n % 2 == 0 ? n : n * 2;
+  }
+}
