@@ -13,6 +13,8 @@
 
 ## 1. Термінал і файлова система
 
+![Вивід команд pwd, ls -la ~/dev/terminal-lab і uname -s у iTerm](../evidence/devops-terminal.png)
+
 ### Оболонка
 
 ```text

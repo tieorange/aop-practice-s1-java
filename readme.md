@@ -27,6 +27,8 @@
 
 Результати вправ з термінала та Git, включно з перевіркою оболонки, шляхів, Git identity і історії шаблону, наведені у [звіті в цьому репозиторії](docs/terminal-and-git.md).
 
+![Команди pwd, ls -la ~/dev/terminal-lab і uname -s у iTerm](evidence/devops-terminal.png)
+
 ![Історія комітів власного репозиторію на GitHub](evidence/git-history.png)
 
 ## Відкрита дискусія
