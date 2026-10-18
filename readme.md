@@ -19,9 +19,15 @@
 - [2413 — Accepted, 150/150 тестів](https://leetcode.com/problems/smallest-even-multiple/submissions/2175548152/)
 - [1523 — Accepted, 84/84 тестів](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/2175548687/)
 
+![LeetCode 2413: Accepted, 150 із 150 тестів](evidence/leetcode-2413.png)
+
+![LeetCode 1523: Accepted, 84 із 84 тестів](evidence/leetcode-1523.png)
+
 ## DevOps і Git
 
 Результати вправ з термінала та Git, включно з перевіркою оболонки, шляхів, Git identity і історії шаблону, наведені у [звіті в цьому репозиторії](docs/terminal-and-git.md).
+
+![Історія комітів власного репозиторію на GitHub](evidence/git-history.png)
 
 ## Відкрита дискусія
 
